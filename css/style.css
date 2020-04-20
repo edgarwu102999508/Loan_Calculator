@@ -1,0 +1,35 @@
+body {
+  background: rgb(41, 41, 41) !important;
+}
+
+.input-group-text {
+  /* background-color: #f0ad4e !important; */
+  justify-content: center !important;
+  align-self: center !important;
+  font-weight: bold !important;
+  width: 48px !important;
+}
+
+.fa-calendar-alt {
+  padding: 10px 0px !important;
+}
+
+.calculator {
+  box-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+
+.alert {
+  display: none;
+}
+
+#loading {
+  display: none;
+}
+
+#results {
+  display: none;
+  margin-top: 24px;
+}
+.result-content {
+  font-size: 1.1em;
+}
